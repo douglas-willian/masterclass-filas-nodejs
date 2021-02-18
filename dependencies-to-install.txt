@@ -1,0 +1,5 @@
+express nodemon nodemailer dotenv bull bull-board
+# redis tem o comando pra instalar pelo docker no 'comandos terminal.txt'
+npm-run-all -D
+
+pegar credenciais do mailtrap pro smtp
